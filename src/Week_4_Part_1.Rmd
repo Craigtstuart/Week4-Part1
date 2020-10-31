@@ -1,0 +1,11 @@
+---
+title: "Week4_Part1 - CI's and t-tests"
+author: "Craig Stuart"
+date: "10/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
