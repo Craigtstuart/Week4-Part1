@@ -1,1 +1,7 @@
-# Week4-Part1
+# Week 4 Part 1: t-tests
+
+Some text!
+
+This is **bold** 
+
+
